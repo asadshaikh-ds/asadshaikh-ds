@@ -38,8 +38,8 @@ Worked on real-world data science and AI projects involving data preprocessing, 
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/asadshaikhds  
-- 🧑‍💻 GitHub: https://github.com/asadshaikh-ds  
+- 💼 LinkedIn:  www.linkedin.com/in/asadshaikhds
+- 🧑‍💻 GitHub:  https://asadshaikh-ds.github.io/Portfolio/
 
 ---
 
