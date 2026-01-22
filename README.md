@@ -44,7 +44,7 @@ Worked on real-world data and AI projects involving data preprocessing, explorat
 ---
 
 ## 📈 GitHub Stats
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
