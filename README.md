@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/ynpWXtQ6/Stylish-Linked-In-Banner-with-Data-Theme.png" alt="Banner" />
+  <img src="https://i.ibb.co/ynpWXtQ6/Stylish-Linked-In-Banner-with-Data-Theme.png"  />
 </p>
 
 <h1 align="center">Hi, I'm Asad Shaikh 👋</h1>
