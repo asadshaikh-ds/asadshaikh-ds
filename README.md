@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Asad Shaikh 👋
 
-<!--
-**asadshaikh-ds/asadshaikh-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Python & Web Development  
+I enjoy building clean, functional applications and continuously improving my skills through real projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, JavaScript
+- **Web:** HTML, CSS, Flask
+- **Database:** SQLite, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+- **Freelancing Web App**  
+  Full-stack web application with authentication and role-based access  
+  🔗 Live: https://your-pythonanywhere-link.com  
+  📦 Repo: https://github.com/username/repo-name
+
+- **Web Scraper (Python)**  
+  Extracts structured data using BeautifulSoup and Requests
+
+---
+
+## 📚 Currently Learning
+- Data Analytics fundamentals
+- APIs & backend optimization
+- Deployment best practices
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/username
