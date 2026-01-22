@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/R4j2tBbh/Stylish-Linked-In-Banner-with-Data-Theme.png" width="100%" alt="Banner" />
-</p>
 
 <h1 align="center">Hi, I'm Asad Shaikh 👋</h1>
 
