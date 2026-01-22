@@ -45,3 +45,5 @@ Worked on real-world data science and AI projects involving data preprocessing, 
 
 ## 📈 GitHub Stats
 ![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadshaikh-ds&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadshaikh-ds&layout=compact&theme=github_dark)
+
