@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 I am a data-focused professional with hands-on experience in Data Science and Machine Learning through academic projects and a 6-month industry internship.  
-I enjoy working with data to uncover insights, build predictive models, and develop practical, data-driven solutions.
+I enjoy working with data to uncover insights, build predictive models, and build practical, data-driven solutions.
 
-Currently exploring opportunities across **Data Science, Data Analytics, and related data roles in IT**.
+Currently exploring opportunities across **Data Science, Data Analytics, and related data roles in the IT domain**.
 
 ---
 
@@ -26,7 +26,7 @@ Currently exploring opportunities across **Data Science, Data Analytics, and rel
 
 ## 💼 Experience
 **Data Science Intern – AI Varient**  
-Worked on real-world data and AI projects involving data preprocessing, exploratory data analysis, model building, evaluation, and deployment using Python-based tools.
+Worked on real-world data science and AI projects involving data preprocessing, exploratory data analysis (EDA), feature engineering, model building, evaluation, and deployment using Python-based tools.
 
 ---
 
@@ -38,15 +38,10 @@ Worked on real-world data and AI projects involving data preprocessing, explorat
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- 🧑‍💻 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://www.linkedin.com/in/asadshaikhds  
+- 🧑‍💻 GitHub: https://github.com/asadshaikh-ds  
 
 ---
 
 ## 📈 GitHub Stats
-![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-⭐ Always open to learning, collaboration, and data-driven opportunities.
+![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadshaikh-ds&show_icons=true&theme=github_dark)
