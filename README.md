@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" />
+  <img src="https://ibb.co/vvX1fQqs" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Asad Shaikh 👋</h1>
