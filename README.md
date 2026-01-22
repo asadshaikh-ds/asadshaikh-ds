@@ -45,8 +45,8 @@ Worked on real-world data and AI projects involving data preprocessing, EDA, fea
 
 ## 🔗 Connect With Me
 <p>
-💼 <a href="https://www.linkedin.com/in/asadshaikhds">LinkedIn</a> <br/>
-🧑‍💻 <a href="https://asadshaikh-ds.github.io/Portfolio/">Portfolio</a>
+💼 <a href="https://www.linkedin.com/in/asadshaikhds">LinkedIn Profile</a> <br/>
+🧑‍💻 <a href="https://asadshaikh-ds.github.io/Portfolio/">Portfolio Link</a>
 </p>
 
 ---
