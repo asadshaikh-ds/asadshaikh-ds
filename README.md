@@ -56,9 +56,6 @@ Worked on real-world data and AI projects involving data preprocessing, EDA, fea
   <img src="https://github-readme-stats.vercel.app/api?username=asadshaikh-ds&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadshaikh-ds&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
 
 ---
 
