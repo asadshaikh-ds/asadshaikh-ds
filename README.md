@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Asad Shaikh 👋</h1>
+<h1 align="center">Hi, I'm Asad 👋</h1>
 
 <p align="center">
   🎓 BSc Computer Science Student <br/>
